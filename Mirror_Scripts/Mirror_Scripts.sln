@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror_Scripts", "Mirror_Scripts.csproj", "{8E928D61-BE9B-84F8-39E7-49F6A3B8FA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror_Scripts.Editor", "Mirror_Scripts.Editor.csproj", "{806BCD8E-9D46-7DBD-403A-7C7BCDDFD71A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E928D61-BE9B-84F8-39E7-49F6A3B8FA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E928D61-BE9B-84F8-39E7-49F6A3B8FA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E928D61-BE9B-84F8-39E7-49F6A3B8FA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E928D61-BE9B-84F8-39E7-49F6A3B8FA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806BCD8E-9D46-7DBD-403A-7C7BCDDFD71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806BCD8E-9D46-7DBD-403A-7C7BCDDFD71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806BCD8E-9D46-7DBD-403A-7C7BCDDFD71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806BCD8E-9D46-7DBD-403A-7C7BCDDFD71A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

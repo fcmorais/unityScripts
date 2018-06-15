@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb00161a9ee34bf4886f80e1d316697b, type: 3}
+  m_Name: Champion
+  m_EditorClassIdentifier: 
+  classId: 1
+  className: Champion
+  classDesc: A Warrior, master of weapons and close-quarters combat.
+  upSkill_1: {fileID: 11400000, guid: 58a5efcd9b9e6bd4f858944ea83279af, type: 2}
+  upSkill_2: {fileID: 0}
+  upSkill_3: {fileID: 0}
+  neutralSkill_1: {fileID: 11400000, guid: fcc9b8db004d03a40924b09467cf022d, type: 2}
+  neutralSkill_2: {fileID: 0}
+  neutralSkill_3: {fileID: 0}
+  powerSkill_1: {fileID: 11400000, guid: 77940eea15ec10246a3cb31b921a0213, type: 2}
+  powerSkill_2: {fileID: 0}
+  powerSkill_3: {fileID: 0}
+  downSkill_1: {fileID: 11400000, guid: 6e57168d37514bf46bd557fec4d6f755, type: 2}
+  downSkill_2: {fileID: 0}
+  downSkill_3: {fileID: 0}
